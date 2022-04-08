@@ -1,25 +1,3 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-[lir_admin@GW-BT] > /e
-
-[lir_admin@GW-BT] > /e                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-[lir_admin@GW-BT] > /ex
-
-[lir_admin@GW-BT] > /ex                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-[lir_admin@GW-BT] > /exp
-
-[lir_admin@GW-BT] > /exp                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-[lir_admin@GW-BT] > /expo
-
-[lir_admin@GW-BT] > /expo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-[lir_admin@GW-BT] > /expor
-
-[lir_admin@GW-BT] > /expor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-[lir_admin@GW-BT] > /export
-
-[lir_admin@GW-BT] > /export                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-[lir_admin@GW-BT] > /export
-[lir_admin@GW-BT] > /export
-
 # apr/08/2022 17:56:21 by RouterOS 7.1.3
 # software id = KGCL-N9VD
 #
